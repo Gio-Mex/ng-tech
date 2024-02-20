@@ -22,12 +22,12 @@ Now run `ng serve` for a dev server. Navigate to http://localhost:4200/. The app
 With `ng test` you can execute any unit test, and with `ng build` you can build your project for production.
 
 ## Usage
-Use is really very easy, just open website and scroll down to see last news; for each one you can see title, reporter and date. The latest ten news will be displayed, if you want to see more, you can click on "LOAD MORE".
+Use is really very easy, just open website and scroll down to see last news; for each one you can see title, reporter and date. The latest ten news will be displayed, if you want to see more, you can click on "LOAD MORE". Click on Read button to oper new story link.
 
 ![Screenshot of "LOAD MORE"](src/assets/img/preview2.png)
 
 ## Features
-- Read always updated news
+- Read always updated tech news
 - Read up to 500 news
 - Responsive design
 - Powered by Hacker News
