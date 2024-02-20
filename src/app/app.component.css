@@ -1,0 +1,62 @@
+ 
+.header {
+  background-color: #263238;
+  color:#00E5FF;
+  font-family: 'Anta', sans-serif;
+  padding: 10px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.header h2 {
+  font-style: italic;
+}
+
+.newsContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background : linear-gradient(to bottom, #263238, #018397);
+}
+
+mat-card{
+  width: 80vw;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: #E1F5FE;
+}
+
+mat-card-header {
+  margin : auto;
+}
+
+mat-card-subtitle{
+  margin : 10px 0px;;
+}
+
+mat-divider {
+  margin : 10px;
+}
+
+mat-card a {
+  color : #00E5FF;
+  font-size: 15px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+button{
+  margin: 25px;
+}
+
+span {
+  vertical-align: middle;
+}
+
+section {
+  margin : 10px;
+}
