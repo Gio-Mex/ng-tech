@@ -1,7 +1,8 @@
 import { Component } from '@angular/core';
 
 import { AppService } from './services/app.service';
-import { ConnectableObservable, Observable, map, of, tap } from 'rxjs';
+
+import { Observable, tap } from 'rxjs';
 
 @Component({
   selector: 'app-root',
